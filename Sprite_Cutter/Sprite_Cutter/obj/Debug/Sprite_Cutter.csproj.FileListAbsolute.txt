@@ -1,0 +1,10 @@
+L:\vsProjeleri\Sprite_Cutter\Sprite_Cutter\bin\Debug\Sprite_Cutter.exe.config
+L:\vsProjeleri\Sprite_Cutter\Sprite_Cutter\bin\Debug\Ken2.png
+L:\vsProjeleri\Sprite_Cutter\Sprite_Cutter\bin\Debug\Sprite_Cutter.exe
+L:\vsProjeleri\Sprite_Cutter\Sprite_Cutter\bin\Debug\Sprite_Cutter.pdb
+L:\vsProjeleri\Sprite_Cutter\Sprite_Cutter\obj\Debug\Sprite_Cutter.csprojResolveAssemblyReference.cache
+L:\vsProjeleri\Sprite_Cutter\Sprite_Cutter\obj\Debug\Sprite_Cutter.Form1.resources
+L:\vsProjeleri\Sprite_Cutter\Sprite_Cutter\obj\Debug\Sprite_Cutter.Properties.Resources.resources
+L:\vsProjeleri\Sprite_Cutter\Sprite_Cutter\obj\Debug\Sprite_Cutter.csproj.GenerateResource.Cache
+L:\vsProjeleri\Sprite_Cutter\Sprite_Cutter\obj\Debug\Sprite_Cutter.exe
+L:\vsProjeleri\Sprite_Cutter\Sprite_Cutter\obj\Debug\Sprite_Cutter.pdb
